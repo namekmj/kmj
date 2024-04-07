@@ -1,7 +1,0 @@
-test4
-testtest
-<<<<<<< HEAD
-devC
-=======
-devA
->>>>>>> origin/feature/devA
